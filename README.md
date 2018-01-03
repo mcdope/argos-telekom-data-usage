@@ -29,4 +29,4 @@ never tested that.
 
 ![Applet showing an already slowed down connection](https://github.com/mcdope/argos-telekom-data-usage/raw/master/screenshots/main-tariff-ssd.png "Applet showing an already slowed down connection")
 
-![Applet showing the menu to order new volume](https://github.com/mcdope/argos-telekom-data-usage/raw/master/screenshots/main-dayflat.png "Applet showing the menu to order new volume")
+![Applet showing the menu to order new volume](https://github.com/mcdope/argos-telekom-data-usage/raw/master/screenshots/main-tariff-ssd-newpass.png "Applet showing the menu to order new volume")
