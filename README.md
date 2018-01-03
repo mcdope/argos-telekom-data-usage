@@ -8,9 +8,9 @@ happen in the script itself, rather it opens the ordering page for the selected 
 ## Installation
 
 Download or clone the repository anywhere OUTSIDE your argos scripts directory. Then create a symlink in your
-argos script directory pointing to telekom-data-usage.5m.php
+argos script directory (by default: `~/.config/argos`) pointing to telekom-data-usage.5m.php
 
-You can change the "5m" in the link name to change the refresh interval. See Argos documentation for details.
+You can change the "5m" in the link name to change the refresh interval. See [Argos documentation](https://github.com/p-e-w/argos#filename-format) for details.
 
 ## Configuration
 
@@ -20,8 +20,8 @@ voodoo for that.
 
 ## Note about BitBar / Mac compability
 
-Since Argos was created to port BitBar scripts to Linux, this script should also work with BitBar. But I've
-never tested that.
+Since Argos was created to port [BitBar](https://github.com/matryer/bitbar) scripts to Linux, this script should also work with BitBar. 
+But I've never tested that.
 
 ## Screenshots
 
